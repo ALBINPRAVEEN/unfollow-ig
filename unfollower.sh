@@ -24,7 +24,7 @@ printf " \e[1;93m| | | | '_ \|  _/ _ \| | |/ _ \ \ /\ / /  \e[1;92m|_   _|\e[0m\
 printf " \e[1;93m| |_| | | | | || (_) | | | (_) \ V  V /   \e[1;92m  |_|  \e[0m\n"
 printf " \e[1;93m \___/|_| |_|_| \___/|_|_|\___/ \_/\_/           \e[0m\n"
 printf " \e[0m\n"
-printf " \e[1;96m [\e[0m\e[1;97m+\e[0m\e[1;96m]\e[0m\e[1;92m Created By HTR-TECH (Tahmid Rayat)\e[0m\n"
+printf " \e[1;96m [\e[0m\e[1;97m+\e[0m\e[1;96m]\e[0m\e[1;92m Created By ALBY (@i_am_albin_praveen)\e[0m\n"
 printf " \e[0m\n"
 
 }
