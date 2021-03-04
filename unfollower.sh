@@ -216,7 +216,7 @@ user_login
 bot
 elif [[ $option == 3 || $option == 03 ]]; then
 
-xdg-open https://github.com/htr-tech/
+xdg-open https://github.com/ALBINPRAVEEN
 sleep 2
 exit 1
 
