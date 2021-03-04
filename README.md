@@ -11,7 +11,8 @@
 
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/unfollowplus.png"/>
+<img width="50%" src="![image](https://user-images.githubusercontent.com/68139513/109910216-a139ed00-7ccd-11eb-8a94-952b9a1adf94.png)
+"/>
 
 
 ## Features :
